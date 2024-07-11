@@ -2,7 +2,7 @@
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVtZnB2ZjA2ZGRlbWpyN3pqd3NuYXlwb2RycTlyam5hOXBoZGpraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TFUhSMPFJG7fPAiLpQ/giphy.webp" width="90" />
         <samp>
             &gt; Hey There!, I'm
-                <b><a target="_blank" href="https://github.com/thais-fujissaka">Thaís Fujissaka</a></b> 
+                <b><a target="_blank" href="https://www.linkedin.com/in/tha%C3%ADs-risa-fujissaka/">Thaís Fujissaka</a></b> 
         </samp>
         
 </h3>
