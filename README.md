@@ -1,16 +1,32 @@
-## Hi there 👋
+<h3 align="center">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVtZnB2ZjA2ZGRlbWpyN3pqd3NuYXlwb2RycTlyam5hOXBoZGpraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TFUhSMPFJG7fPAiLpQ/giphy.webp" width="90" />
+        <samp>
+            &gt; Hey There!, I'm
+                <b><a target="_blank" href="https://github.com/thais-fujissaka">Thaís Fujissaka</a></b> 
+        </samp>
+        
+</h3>
+<br>
 
-<!--
-**thais-fujissaka/thais-fujissaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 <b>Information Systems</b> undergraduate student at <b>University of São Paulo (USP)</b> 」
+                <br>
+                「 Trying to understand how things work 💻 」
+                <br>
+        </samp>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        Happy Coding c:
+        <br>
+        <br>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB3ZWNyaGlqZmkzYnM3eDU0OTdhdDJidXhpYWhmMjJtM3MzYXl5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6PtBZqT8earZ3XBTTL/giphy.webp" width="70"/>
+    </p>
+  
+</samp>
