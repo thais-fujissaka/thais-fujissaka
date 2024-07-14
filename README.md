@@ -1,8 +1,8 @@
 <h3 align="center">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVtZnB2ZjA2ZGRlbWpyN3pqd3NuYXlwb2RycTlyam5hOXBoZGpraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TFUhSMPFJG7fPAiLpQ/giphy.webp" width="90" />
         <samp>
-            &gt; Hey There!, I'm
-                <b><a target="_blank" href="https://www.linkedin.com/in/tha%C3%ADs-risa-fujissaka/">Thaís Fujissaka</a></b> 
+            &gt; Hey There! I'm
+                <b><a target="_blank" href="https://www.linkedin.com/in/tha%C3%ADs-risa-fujissaka/">Thaís Fujissaka</a></b>, 
         </samp>
         
 </h3>
@@ -11,7 +11,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 <b>Information Systems</b> undergraduate student at <b>University of São Paulo (USP)</b> 」
+                「 an <b>Information Systems</b> undergraduate student at <b>University of São Paulo (USP)</b> 」
                 <br>
                 「 Figuring out how things work 💻 」
                 <br>
