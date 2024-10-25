@@ -29,10 +29,6 @@
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         <!-- React -->
         <img alt="React" src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
-        <!-- NextJS -->
-        <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
-        <!-- TailwindCSS -->
-        <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
 </p>
 <br>
 
