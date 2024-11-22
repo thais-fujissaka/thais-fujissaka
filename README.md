@@ -29,6 +29,8 @@
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         <!-- React -->
         <img alt="React" src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <!-- Nodejs -->
+        <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <br>
 
