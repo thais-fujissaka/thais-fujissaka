@@ -20,17 +20,21 @@
 
 <p align="center">
         <br>
-        <samp>Currently Learning:</samp>
+        <samp>Tech Stack:</samp>
 </p>
 
 <!-- Tech -->
 <p align="center">
-        <!-- JavaScript -->
+        <img alt="Python" src="https://img.shields.io/badge/Python-%233C07FF?style=flat-square&logo=python&logoColor=white&logoSize=auto">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+</p>
+<p align="center">
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        <!-- React -->
         <img alt="React" src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
-        <!-- Nodejs -->
         <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+<p align="center">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white&logoSize=auto">
 </p>
 <br>
 
