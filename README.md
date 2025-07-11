@@ -13,7 +13,7 @@
         <samp>
                 「 an <b>Information Systems</b> undergraduate student at <b>University of São Paulo (USP)</b> 」
                 <br>
-                「 Figuring out how things work 💻 」
+                「 Software Development Intern 💻 」
                 <br>
         </samp>
 </p>
